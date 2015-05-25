@@ -1,4 +1,4 @@
-# parse-facebook-v4
+# parse
 
 ## Installation
 
@@ -26,7 +26,6 @@ facebook 4.x
 
 ```gradle
 dependencies {
-
   compile 'com.parse.bolts:bolts-android:1.1.4'
   
   compile 'com.github.yongjhih:parse:1.9.2'
